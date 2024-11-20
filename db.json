@@ -1,0 +1,124 @@
+{
+  "productos": [
+    {
+      "nombre": "Rosario_olor_a_rosas",
+      "categoria": "articulos_religiosos",
+      "precio": "25.000",
+      "descripcion": "rosario elaborado con petalos de rosa aromarizado con fracia de rosas",
+      "imgUrl": "https://www.mondocattolico.com/cdn/shop/files/rose-petal-pope-francis-boxed-rosary-57485706625368.jpg?v=1724722165&width=823",
+      "id": "1"
+    },
+    {
+      "nombre": "cirio_miel",
+      "categoria": "articulos_religiosos",
+      "precio": "10.000",
+      "descripcion": "dimensiones 40cm de alto * 30cm de ancho elaborada en cera de miel de abeja",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_876425-MCO69859389622_062023-O.webp",
+      "id": "3"
+    },
+    {
+      "nombre": "Amor_de_los_amores",
+      "categoria": "musica",
+      "precio": " 30.000",
+      "descripcion": "artista luis enrique ascoy discografia amor de los amores ",
+      "imgUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/fb/ed/bf/fbedbf8e-40c2-1d95-ced4-11da5c9b188a/889211720545.jpg/600x600bf-60.jpg",
+      "id": "4"
+    },
+    {
+      "nombre": "mysteria antologia",
+      "categoria": "musica",
+      "precio": "25.000",
+      "descripcion": "artista scarlet buller discografia resurreccion ",
+      "imgUrl": "https://f4.bcbits.com/img/a0186970264_2.jpg",
+      "id": "5"
+    },
+    {
+      "nombre": "orar con María",
+      "categoria": "musica",
+      "precio": "40.000",
+      "descripcion": "artista hermana Glenda discografia orar con María ",
+      "imgUrl": "https://i.ytimg.com/vi/-Bgk4vAsRog/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgXihFMA8=&rs=AOn4CLDvsoxk7FXbGe6KrebZlISaWZ93jA",
+      "id": "6"
+    },
+    {
+      "nombre": "biblia_Dios_habla_hoy",
+      "categoria": "libreria",
+      "precio": "25.000",
+      "descripcion": "dimensiones 17cm alto * 20cm ancho pasta dura ",
+      "imgUrl": "https://acdn.mitiendanube.com/stores/001/240/337/products/bib-catolica-0111-4cd008eeda5c5a03c816400206120885-480-0.jpg",
+      "id": "7"
+    },
+    {
+      "nombre": "El silencio de María ",
+      "categoria": "libreria",
+      "precio": "25.000",
+      "descripcion": "Autor Ana Catalina Emerick pasta blanda 100 pg ",
+      "imgUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/77/63/776377de4cb7976747b5203690e5987e.jpg",
+      "id": "8"
+    },
+    {
+      "nombre": "Funda para celular",
+      "categoria": "accesorios",
+      "precio": "25.000",
+      "descripcion": "dimensiones 17cm alto * 20cm ancho pasta dura ",
+      "imgUrl": "https://rlv.zcache.es/funda_de_case_mate_para_iphone_bendita_virgen_maria_religiosa_vintage_catolica-rff2adbd75b3e4527bab0db56918edc5f_s0dnk_494.jpg?rlvnet=1",
+      "id": "9"
+    },
+    {
+      "nombre": "blusa rosario",
+      "categoria": "accesorios",
+      "precio": "25.000",
+      "descripcion": "tallas disponible xs, s,m,lx ",
+      "imgUrl": "https://i.pinimg.com/474x/b0/08/ef/b008efe9da238b72fdf33aa77383a9a5.jpg",
+      "id": "10"
+    },
+    {
+      "nombre": "mochila",
+      "categoria": "accesorios",
+      "precio": "80.000",
+      "descripcion": "mochila tejida a mano con diseños catolicos ",
+      "imgUrl": "https://i.pinimg.com/originals/a9/70/04/a970044fad2994714e82c4896aa6cde5.jpg",
+      "id": "11"
+    },
+    {
+      "id": "f868",
+      "nombre": "martin valverde lo  mejor",
+      "categoria": "musica",
+      "precio": "50.000",
+      "descripcion": "exitos de 30 años de carrera musical",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNAhaWtWv0GfNG2gwn6K2jjsXCkNwBRhyjsA&s"
+    },
+    {
+      "id": "97d0",
+      "nombre": "asalto al cielo",
+      "categoria": "libreria",
+      "precio": "88.000",
+      "descripcion": "auto biografia de santa catalina de siena",
+      "imgUrl": "https://images.cdn1.buscalibre.com/fit-in/520x520/fd/24/fd2405a60125abc85bc3608d2e116567.jpg"
+    },
+    {
+      "id": "18e1",
+      "nombre": "agenda personalizada",
+      "categoria": "accesorios",
+      "precio": "35.000",
+      "descripcion": "agenda ilustrada con la advocacion de nuestra señora de la medalla milagrosa",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7A5V9watA9NvIxpBXrkMC_Pk3mqFG6WzB1w&s"
+    },
+    {
+      "id": "251a",
+      "nombre": "virgen de Guadalupe",
+      "categoria": "articulos_religiosos",
+      "precio": "25.000",
+      "descripcion": "color dorado, resina resistente",
+      "imgUrl": "https://www.viareggio.cl/images/ima0017.jpg"
+    },
+    {
+      "id": "83f2",
+      "nombre": "medalla de san benito",
+      "categoria": "articulos_religiosos",
+      "precio": "15.000",
+      "descripcion": "medalla elaborada en acero",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Benediktusmedaille.jpg"
+    }
+  ]
+}
