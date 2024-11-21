@@ -57,4 +57,13 @@
     .nuevo__producto__items__input {
         width: 90%;
     }
+    .nuevo__producto__items{
+        flex-direction: column;
+        align-items:normal;
+
+    }
+    .nuevo__producto__items__text {
+        font-size: 10px;
+    }
+
 }
