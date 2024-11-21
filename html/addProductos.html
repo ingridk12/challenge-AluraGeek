@@ -50,15 +50,15 @@
                         </a>
                     </li>
                     <li class="navegacion__items">
-                        <a class="navegacion__items__link" href="#about">
+                        <a class="navegacion__items__link" href="../index.html">
                             <i class="fa-solid fa-users navegacion__items__icon"></i>
                             <span class="navegacion__items__text">Sobre Nosotros</span>
                         </a>
                     </li>
                     <li class="navegacion__items">
-                        <a id="button__contactar"   class="navegacion__items__link" href="#contacto">
+                        <a id="button__contactar"   class="navegacion__items__link" href="./addProductos.html">
                             <i class="fa-solid fa-comments navegacion__items__icon"></i>
-                            <span id="button__contactar" class="navegacion__items__text">Agregar Producto</span>
+                            <span id="button__contactar" class="navegacion__items__text">Agregar producto</span>
                         </a>
                     </li>
                     
@@ -72,7 +72,7 @@
                 <section id="banner" class="banner__ofertas">
                    <div class="banner__ofertas__text">
                        <p class="banner__ofertas__text__title">
-                           Noviembre Promocional
+                        <strong class="titulo_destaque">Peregrinos</strong> <br><br> Noviembre Promocional
                        </p>
                        <p class="banner__ofertas__text__p">
                            El segundo producto con un 25% de descuento
@@ -87,36 +87,9 @@
 
                 </div>
             </div>
-            <p class="subtitle">Agregar Producto</p>
-            <form data-addProducto class="nuevo__producto">
-                <div class="nuevo__producto__items">
-                    <p class="nuevo__producto__items__text">Categoría</p> 
-                    <select data-addProductoCategoria class="nuevo__producto__items__input" type="text">
-                        <option value="articulos_religiosos">Articulos religiosos</option>
-                        <option value="musica">Musica</option>
-                        <option value="accesorios">Accesorios</option>
-                        <option value="libreria">Libreria</option>
-                        
-                    </select>    
-                </div>
-                <div class="nuevo__producto__items">
-                    <p class="nuevo__producto__items__text">Nombre Producto</p>
-                    <input data-addProductoNombre class="nuevo__producto__items__input" type="text">
-                </div>
-                <div class="nuevo__producto__items">
-                    <p class="nuevo__producto__items__text">Precio</p>
-                    <input data-addProductoPrecio class="nuevo__producto__items__input" type="number">
-                </div>
-                <div class="nuevo__producto__items">
-                    <p class="nuevo__producto__items__text">Descripción</p>
-                    <input data-addProductoDescripcion class="nuevo__producto__items__input" type="text">
-                </div>
-                <div class="nuevo__producto__items">
-                    <p class="nuevo__producto__items__text">URL Imagen</p>
-                    <input data-addProductoURLImg class="nuevo__producto__items__input" type="text">
-                </div>
-                <button  class="addProductoSave" data-addProductoSave  >Guardar</button>
-            </form>  
+            
+            
+                    
         </section>
     </main>
     <footer class="footer">
@@ -133,6 +106,8 @@
         <p class="footer__text__desarrollador">Desarrollado por: Ingrid katherine Vega Ordeñez</p>
     </footer>
     <script src="../JS/nuevoProducto.js" type="module"></script>
+    
+    <script src="../JS/detallesProducto.js" type="module"></script>
     <script src="../js/backpag.js"></script>
     
     
