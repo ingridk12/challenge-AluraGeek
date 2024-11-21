@@ -132,17 +132,7 @@ header{
     text-align: center;
     border: 2px solid var(--color-white);
 }
-.btn__buscar{
-    width: 30px;
-    height: 30px;
-    margin: auto;
-    border-radius: 5px;
-    background: url(../imagen/search.png); 
-    background-size: cover;
-    background-position: center;
-    border: none;
-    
-}
+
 .buttons__header{
     display: flex;
     width: 15%;
@@ -268,12 +258,12 @@ header{
     content: "";
     background: transparent;
     transition: .5s;
-    border-right: 5px solid transparent;
+    border-right: 2.2px solid transparent;
 }
 .navegacion__items__link::before{
     transform: translate(25px, -25px);
     border-bottom: 5px solid transparent;
-    border-radius: 0 0 8px 0;
+    border-radius: 0 0 8px 0px;
 }
 .navegacion__items__link::after{
     transform: translate(25px, 25px);
@@ -485,6 +475,13 @@ main {
         width: 35px;
     }
     .nombre_usuario{
+        font-size: .8rem;
+    }
+    .container__navegacion{
+        width: 3pc;
+        height: 50pc;
+    }
+    .navegacion__items__text{
         font-size: .8rem;
     }
 }
