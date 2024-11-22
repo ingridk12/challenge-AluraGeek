@@ -134,5 +134,8 @@
 @media screen and (max-width: 450px) {
     .category__head {
         justify-content: center;
-    }   
+    } 
+    .category__title{
+        font-size: .8rem;
+    }  
 }
