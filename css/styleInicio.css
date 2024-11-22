@@ -25,7 +25,7 @@
         transform: translatex(-100px);
     }
     to{
-        transform: translatex(200px);
+        transform: translatex(100px);
     }
 }
 .titulo_destaque{
@@ -92,5 +92,10 @@
         width: 100%;
         min-width: 220px;
         height: auto;
+    }
+    .banner__ofertas__text__title,
+    .titulo_destaque,
+    .banner__ofertas__text__p{
+        font-size: 1rem;
     }
 }
