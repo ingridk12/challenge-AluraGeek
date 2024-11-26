@@ -26,7 +26,7 @@ export const printProductos = (nombre, precio, imgUrl, id, categoria) => {
     <p class="producto__target__name">${nombre}</p>
     <p class="producto__target__precio">cop ${precio}</p>
     <div class="producto__target__buttonsAdmin">
-        <a class="producto__target__ver" href="/html/producto.html?id=${id}">Ver</a>
+        <a class="producto__target__ver" href="./html/producto.html?id=${id}">Ver</a>
         <button data-btnEliminarProducto class="btn__eliminar" id="${id}"></button>
     </div>
     <p class="producto__target__category">${categoria}</p>
