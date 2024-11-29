@@ -16,7 +16,7 @@ Librería: En esta sección puedes encontrar biblias, libros de ritual católico
 
 ## Funcionalidad
 
-	Esta pagina está compuesta por su titulo, un cuadro de búsqueda y un botón de volver que nos permite navegar entre paginas.
+	Esta pagina está compuesta por su titulo, un cuadro de búsqueda y un botón de volver que nos permite navegar entre paginas.   
 	Una barra de navegación lateral que se puede contraer o expandir según la necesidad del usuario dando clic en el icono  
 	Productos nos desplaza directamente al contenedor de las tarjetas anteriormente descritas con los productos  
 	Sobre nosotros: Encontraras una breve reseña de la empresa.   
